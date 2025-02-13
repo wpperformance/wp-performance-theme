@@ -1,0 +1,8 @@
+.git
+.git*
+node_modules
+.env_example
+DOCKER_ENV
+docker_tag
+.env
+languages
