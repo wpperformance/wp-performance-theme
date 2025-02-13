@@ -181,7 +181,7 @@ add_filter(
 );
 
 /**
- * Add stylesheet link tag to head
+ * Add stylesheet link tag to head test
  */
 // function add_stylesheet_link() {
 //     echo '<link rel="stylesheet" href="' . get_stylesheet_directory_uri() . '/style.css" type="text/css" media="all">';
